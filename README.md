@@ -156,26 +156,6 @@ No installation required.
 
 ---
 
-# 📸 Screenshots
-
-## Home Page
-
-```md
-![Home](assets/1.png)
-```
-
-## Home Page
-
-```md
-![home](assets/2.png)
-```
-## Home Page
-
-```md
-![home](assets/3.png)
-```
----
-
 # 🤝 Contributing
 
 Contributions are always welcome.
