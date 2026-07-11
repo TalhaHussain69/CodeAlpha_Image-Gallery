@@ -20,8 +20,6 @@ A beautifully crafted image gallery built with **HTML, CSS, and JavaScript**, fe
 
 # ✨ Preview
 
-> Replace these images with your own screenshots.
-
 <p align="center">
 <img src="assets/1.png" width="850">
 </p>
