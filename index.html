@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aperture — Image Gallery</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>APERTURE <span>Gallery</span></h1>
+  <p>A small collection worth a second look</p>
+</header>
+
+<div class="filters" id="filters">
+  <button class="filter-btn active" data-filter="all">All</button>
+  <button class="filter-btn" data-filter="nature">Nature</button>
+  <button class="filter-btn" data-filter="urban">Urban</button>
+  <button class="filter-btn" data-filter="wildlife">Wildlife</button>
+</div>
+
+<main class="gallery" id="gallery"></main>
+
+<div class="lightbox" id="lightbox">
+  <button class="lb-close" id="lbClose">&times;</button>
+  <button class="lb-prev" id="lbPrev">&#10094;</button>
+  <div class="lightbox-content">
+    <img id="lbImage" src="" alt="">
+    <div class="lightbox-caption"><strong id="lbTitle"></strong> — <span id="lbCat"></span></div>
+  </div>
+  <button class="lb-next" id="lbNext">&#10095;</button>
+</div>
+
+<footer>Click any photo to view it full size. Use the arrow keys or on-screen arrows to browse.</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
