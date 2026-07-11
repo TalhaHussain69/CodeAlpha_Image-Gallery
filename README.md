@@ -23,11 +23,11 @@ A beautifully crafted image gallery built with **HTML, CSS, and JavaScript**, fe
 > Replace these images with your own screenshots.
 
 <p align="center">
-<img src="assets/home.png" width="850">
+<img src="assets/1.png" width="850">
 </p>
 
 <p align="center">
-<img src="assets/lightbox.png" width="850">
+<img src="assets/3.png" width="850">
 </p>
 
 ---
@@ -72,8 +72,9 @@ A beautifully crafted image gallery built with **HTML, CSS, and JavaScript**, fe
 Aperture-Image-Gallery
 │
 ├── assets/
-│   ├── home.png
-│   ├── lightbox.png
+│   ├── 1.png
+│   ├── 2.png
+|   ├── 3.png
 │
 ├── index.html
 ├── style.css
@@ -144,7 +145,7 @@ The gallery is fully responsive and works smoothly on:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Aperture-Image-Gallery.git
+git clone https://github.com/TalhaHussain69/Image-Gallery.git
 ```
 
 ### Open the Project
@@ -160,15 +161,19 @@ No installation required.
 ## Home Page
 
 ```md
-![Home](assets/home.png)
+![Home](assets/1.png)
 ```
 
-## Lightbox
+## Home Page
 
 ```md
-![Lightbox](assets/lightbox.png)
+![home](assets/2.png)
 ```
+## Home Page
 
+```md
+![home](assets/3.png)
+```
 ---
 
 # 🤝 Contributing
